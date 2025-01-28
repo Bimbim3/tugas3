@@ -1,0 +1,44 @@
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch main
+# Your branch is up to date with 'origin/main'.
+#
+# Changes to be committed:
+#	modified:   composer.lock
+#	modified:   package-lock.json
+#	modified:   package.json
+#	new file:   resources/js/Components/ApplicationLogo.vue
+#	new file:   resources/js/Components/Checkbox.vue
+#	new file:   resources/js/Components/DangerButton.vue
+#	new file:   resources/js/Components/Dropdown.vue
+#	new file:   resources/js/Components/DropdownLink.vue
+#	new file:   resources/js/Components/InputError.vue
+#	new file:   resources/js/Components/InputLabel.vue
+#	new file:   resources/js/Components/Modal.vue
+#	new file:   resources/js/Components/NavLink.vue
+#	new file:   resources/js/Components/PrimaryButton.vue
+#	new file:   resources/js/Components/ResponsiveNavLink.vue
+#	new file:   resources/js/Components/SecondaryButton.vue
+#	new file:   resources/js/Components/TextInput.vue
+#	new file:   resources/js/Layouts/AuthenticatedLayout.vue
+#	new file:   resources/js/Layouts/GuestLayout.vue
+#	new file:   resources/js/Pages/Auth/ConfirmPassword.vue
+#	new file:   resources/js/Pages/Auth/ForgotPassword.vue
+#	new file:   resources/js/Pages/Auth/Login.vue
+#	new file:   resources/js/Pages/Auth/Register.vue
+#	new file:   resources/js/Pages/Auth/ResetPassword.vue
+#	new file:   resources/js/Pages/Auth/VerifyEmail.vue
+#	new file:   resources/js/Pages/Dashboard.vue
+#	new file:   resources/js/Pages/Profile/Edit.vue
+#	new file:   resources/js/Pages/Profile/Partials/DeleteUserForm.vue
+#	new file:   resources/js/Pages/Profile/Partials/UpdatePasswordForm.vue
+#	new file:   resources/js/Pages/Profile/Partials/UpdateProfileInformationForm.vue
+#	new file:   resources/js/Pages/Welcome.vue
+#	new file:   resources/js/app.js
+#	modified:   resources/views/app.blade.php
+#	modified:   routes/web.php
+#	modified:   tailwind.config.js
+#	modified:   vite.config.js
+#
